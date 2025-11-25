@@ -81,7 +81,7 @@
 
 1. 具有机器学习、自然语言处理、医学影像分析，或相关领域的学习和研究。
 2. 有预训练大语言模型或GPT模型等相关研究开发经验。
-3. 在机器学习（ICML、NeurlPS、ICLR等）、计算机视觉（CVPR、ICCV、ECCV等）、自然语言处理（ACL，EMNLP等）和医疗影像分析（MICCAI、IPMI）等顶级会议，或者顶级期刊（IEEE T-PAMI，IEEE TMI、Medical lmage Analysis）发表过相关论文。
+3. 在机器学习（ICML、NeurlPS、ICLR等）、计算机视觉（CVPR、ICCV、ECCV等）、自然语言处理（ACL、EMNLP等）和医疗影像分析（MICCAI、IPMI）等顶级会议，或者顶级期刊（IEEE T-PAMI、IEEE TMI、Medical lmage Analysis）发表过相关论文。
 4. 具有人工智能相关专业（计算机视觉、机器学习、医疗图像分析等）硕士及以上学位。
 5. 能熟练使用英语。
 
