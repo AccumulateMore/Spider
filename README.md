@@ -133,7 +133,7 @@
 
 我的经验（希望对你有帮助）：拿offer最快的方式，就是不走弯路，不走错路。方向错了，努力没有意义。
 
-<img width="1057" height="502" alt="e94f93124ea5b9626bc1cecec9eda334" src="https://github.com/user-attachments/assets/f1353328-fb8b-44d3-8199-4d31bae9b108" />
+<img width="1485" height="713" alt="36dcd94201a6a46e903a198352195afa" src="https://github.com/user-attachments/assets/7435fb88-758c-4ef9-a480-7119888fb2ae" />
 
 -------------------------------------------------------------
 -------------------------------------------------------------
